@@ -1,15 +1,15 @@
 # How to run?
 ### Installing
-1. Copy this repository
-2. install packages
+1. Clone this repository
+2. Install packages
 ```
 npm install
 ```
-1. run ws server
+3. Run ws server
 ```
 npm run server
 ```
-1. run client in dev mode
+4. Run client in dev mode
 ```
 npm run dev
 ```
