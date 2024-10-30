@@ -1,3 +1,18 @@
+# How to run?
+### Installing
+1. Copy this repository
+2. install packages
+```
+npm install
+```
+1. run ws server
+```
+npm run server
+```
+1. run client in dev mode
+```
+npm run dev
+```
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
