@@ -1,0 +1,10 @@
+.form{
+    justify-content: center;
+    display: flex;
+    gap: 1rem;
+    margin-bottom: 0.5rem;
+}
+
+.input {
+    margin-bottom: 0;
+}
